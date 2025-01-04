@@ -1,31 +1,33 @@
 # Codebox Blog Resources
 
-Bienvenido al repositorio oficial de **Codebox Blog**, un espacio dedicado a almacenar todos los recursos necesarios para el desarrollo y mantenimiento de nuestro blog.
+Welcome to the official repository of **Codebox Blog**, a space dedicated to storing all the necessary resources for the development and maintenance of our blog.
 
-Este repositorio contiene scripts, imágenes, hojas de estilo, y otros archivos que se usan en el blog para crear contenido atractivo y funcional. Su objetivo es organizar y centralizar todos los archivos relevantes para una gestión eficiente del blog.
-
----
-
-## Contenido del Repositorio
-
-- **/assets**: Imágenes, íconos y demás recursos multimedia.
-- **/css**: Archivos de estilo CSS utilizados en el blog.
-- **/scripts**: Scripts JavaScript para funcionalidad adicional.
-- **/pages**: Archivos relacionados con el diseño y el contenido de las páginas del blog.
+This repository contains scripts, images, stylesheets, and other files used in the blog to create engaging and functional content. Its goal is to organize and centralize all the relevant files for efficient blog management.
 
 ---
 
-## Enlace al Blog
+## Repository Contents
 
-Puedes visitar el blog en el siguiente enlace:
+- **/assets**: Images, icons, and other multimedia resources.
+- **/css**: Stylesheets used in the blog.
+- **/scripts**: JavaScript scripts for additional functionality.
+- **/pages**: Files related to the design and content of the blog's pages.
+- **/data**: Data files for posts or other blog-related information.
+- **/templates**: HTML templates for blog posts and layouts.
+
+---
+
+## Blog Link
+
+You can visit the blog at the following link:
 
 [Codebox Blog](https://codeboxlucio.blogspot.com)
 
 ---
 
-## Instalación
+## Installation
 
-Este repositorio no requiere una instalación especial. Solo debes clonar o descargar el repositorio y luego usar los archivos correspondientes en tu proyecto del blog.
+This repository doesn't require any special installation. You can clone or download it and then use the files as needed in your blog project.
 
 ```bash
-git clone https://github.com/tu-usuario/codebox-blog-resources.git
+git clone https://github.com/your-username/codebox-blog-resources.git
