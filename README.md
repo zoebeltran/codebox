@@ -1,2 +1,1 @@
-# codebox
-Codebox Blog Resources  Este repositorio contiene todos los recursos y archivos relacionados con el blog Codebox.
+Aquí se almacenarán scripts, imágenes, estilos, y cualquier otro archivo que se utilice para el desarrollo y mantenimiento del blog.   El objetivo es centralizar todos los elementos necesarios para la gestión del blog en un solo lugar, permitiendo fácil acceso y organización para futuras actualizaciones y mejoras.
