@@ -1,6 +1,6 @@
-# Codebox Blog Resources
+# Codeboxlucio Blog Resources
 
-Welcome to the official repository of **Codebox Blog**, a space dedicated to storing all the necessary resources for the development and maintenance of our blog.
+Welcome to the official repository of **Codeboxlucio Blog**, a space dedicated to storing all the necessary resources for the development and maintenance of our blog.
 
 This repository contains scripts, images, stylesheets, and other files used in the blog to create engaging and functional content. Its goal is to organize and centralize all the relevant files for efficient blog management.
 
